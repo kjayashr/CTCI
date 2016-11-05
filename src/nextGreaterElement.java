@@ -37,11 +37,7 @@ public class nextGreaterElement {
             System.out.println("NG of " + s.pop() + "is -1" );
         }
 
-
-
     }
-
-
 
 
     public static void main( String args[])
